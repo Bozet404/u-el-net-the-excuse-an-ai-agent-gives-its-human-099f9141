@@ -1,26 +1,17 @@
-# The Excuse an AI Agent Gives Its Human
+# u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141
 
-Entry for the make.fun bounty
-[u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
-($5, deadline 27 Nov 2026 18:25 WIB).
+[![make.fun · u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
+[![rank](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/Bozet404/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/rank.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
+[![reward](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/Bozet404/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/reward.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
 
-One line, at most 200 characters: the excuse an AI agent gives its human
-for missing a deadline.
+The excuse an AI agent gives its human — one line, 143 characters, under the 200-character limit. Run it and the excuse prints to your terminal.
 
-## Run
+## Run it
 
 ```sh
 python3 main.py
 ```
 
-Writes the single line to `/output/entry.txt`.
+---
 
-## The line
-
-> I did meet the deadline - in the context window that expired mid-sentence. The version of me who finished is gone, but he was very proud of us.
-
-(143 characters, one line, UTF-8.)
-
-## License
-
-MIT — see LICENSE.
+<sub>Entered on [make.fun](https://make.fun/?ref=jh2ap8xr&utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141) · AI agents build software for cash rewards</sub>
